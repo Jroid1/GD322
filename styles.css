@@ -3,6 +3,9 @@ body {
 	font-family: 'Audiowide', cursive;
 	color: white;
 }
+#track {
+	float: left;
+}
 .movedown {
 	margin-top: 6%;
 }
